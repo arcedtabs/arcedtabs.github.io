@@ -83,6 +83,7 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex flex-col md:flex-row gap-12 items-center">
                 <div class="md:w-1/2">
+                    <img src= /a9151e869c3e3a0baa70da6496f1f851.jpg
                 </div>
                 <div class="md:w-1/2">
                     <h2 class="text-3xl font-bold mb-4">Our Signature Churro Twist</h2>
