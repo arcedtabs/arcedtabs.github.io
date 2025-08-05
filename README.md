@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -70,26 +71,25 @@
         </div>
     </nav>
 
-<!-- Hero Section -->
- <section class="hero-bg h-96 flex items-center justify-center text-white">
+    <!-- Hero Section -->
+    <section class="hero-bg h-96 flex items-center justify-center text-white">
         <div class="text-center px-4">
             <h1 class="text-4xl md:text-5xl font-bold mb-4">Churro Twist</h1>
             <p class="text-xl md:text-2xl mb-6 max-w-2xl mx-auto">The spiral sensation taking Panabo by storm</p>
         </div>
     </section>
-    
- <!-- Product Showcase -->
-  <section id="product" class="py-16 bg-white">
+
+    <!-- Product Showcase -->
+    <section id="product" class="py-16 bg-white">
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex flex-col md:flex-row gap-12 items-center">
+                <img src=" /a9151e869c3e3a0baa70da6496f1f851.jpg">
                 <div class="md:w-1/2">
-                    <img src=" /a9151e869c3e3a0baa70da6496f1f851.jpg">
                 </div>
-                <div class="md:w-1/2">
                     <h2 class="text-3xl font-bold mb-4">Our Signature Churro Twist</h2>
                     <p class="text-lg mb-6">The revolutionary spiral-cut churro that maximizes crunch and flavor in every bite. Made fresh daily at our Panabo City Senior High School kiosk.</p>
                     
-  <div class="mb-8">
+                    <div class="mb-8">
                         <h3 class="text-xl font-semibold mb-3">Available Flavors</h3>
                         <div class="flex flex-wrap gap-2">
                             <span class="flavor-chip bg-orange-100 text-orange-800 px-4 py-2 rounded-full">Classic Cinnamon</span>
